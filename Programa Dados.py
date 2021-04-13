@@ -2,6 +2,7 @@ print("- Se juega con 3 dados y se enfrentan 2 jugadores. El juego se desarrolla
 
 print("\n--------------------------------------------------------------------------------------------\n")
 
+print("hola)
 
 player1 = input("Nombre del primer jugador: ")
 player2 = input("Nombre del segundo jugador: ")
